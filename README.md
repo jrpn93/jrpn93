@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, React Native, Capacitor, Ionic, Next JS, Javascript**
 
-- 📫 Reach me on **jrpn93@gmai.com**
+- 📫 Reach me on **jrpn93@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
