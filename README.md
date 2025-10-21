@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Making mobile apps smoother, faster, and smarter ⚡<br><br>🔨 I’m currently building MIDASX - India's first-of-its-kind B2B2C Marketplace<br><br>🌱 I’m currently learning - Node.JS<br><br>👨‍💻 All of my projects are available at - https://jeelparekh.netlify.app<br><br>📝 I also write blogs on - https://medium.com/@jrpn93<br><br>💬 Ask me about - React, React Native, JS<br><br>📫 Reach me on - jrpn93@gmail.com<br><br>📄 Know about my experiences - https://docs.google.com/document/d/1F_Mb05LM_PUpgiOvt2w01fp_4xEgwTe2FlCF9BWm-1g/edit?usp=sharing
+⚡ Making mobile apps smoother, faster, and smarter ⚡<br><br>🔨 I’m currently building MIDASX - India's first-of-its-kind B2B2C Marketplace - https://www.vijyafintech.com/MIDASX<br><br>🌱 I’m currently learning - Node.JS<br><br>👨‍💻 All of my projects are available at - https://jeelparekh.netlify.app<br><br>📝 I also write blogs on - https://medium.com/@jrpn93<br><br>💬 Ask me about - React, React Native, JS<br><br>📫 Reach me on - jrpn93@gmail.com<br><br>📄 Know about my experiences - https://docs.google.com/document/d/1F_Mb05LM_PUpgiOvt2w01fp_4xEgwTe2FlCF9BWm-1g/edit?usp=sharing
 
 
 ## 🌐 Socials:
